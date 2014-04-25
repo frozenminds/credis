@@ -22,8 +22,7 @@
 	},
     "extra": {
         "map": [
-            ["Client.php", "lib/Credis"],
-            ["Cluster.php", "lib/Credis"]
+            ["code", "lib/Credis"]
         ]
     }
 }
