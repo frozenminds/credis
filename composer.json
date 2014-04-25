@@ -19,5 +19,11 @@
 			"Client.php",
 			"Cluster.php"
 		]
-	}
+	},
+    "extra": {
+        "map": [
+            ["Client.php", "lib/Credis"],
+            ["Cluster.php", "lib/Credis"]
+        ]
+    }
 }
