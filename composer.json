@@ -22,8 +22,8 @@
 	},
     "extra": {
         "map": [
-            ["Client.php", "lib/Credis/Client.php"],
-            ["Cluster.php", "lib/Credis/Cluster.php"],
+            ["Client.php", "lib/Credis"],
+            ["Cluster.php", "lib/Credis"],
             ["LICENSE", "lib/Credis/LICENSE"],
             ["README.markdown", "lib/Credis/README.markdown"]
         ]
