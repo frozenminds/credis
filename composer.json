@@ -1,5 +1,5 @@
 {
-	"name": "colinmollenhour/credis",
+	"name": "frozenminds/credis",
 	"type": "library",
 	"description": "Credis is a lightweight interface to the Redis key-value store which wraps the phpredis library when available for better performance.",
 	"homepage": "https://github.com/colinmollenhour/credis",
@@ -11,7 +11,8 @@
 		}
 	],
 	"require": {
-		"php": ">=5.3.0"
+		"php": ">=5.3.0",
+        "magento-hackathon/magento-composer-installer": "*"
 	},
 	"autoload": {
 		"classmap": [
